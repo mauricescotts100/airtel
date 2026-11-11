@@ -1,0 +1,122 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+    width:100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.unit1{
+    background-color: red;
+    color:white;
+    padding: 10px;
+    font-size: 23px;
+    font-weight: bold;    
+}
+
+.unit2{
+    background-color:red;
+    color:white;   
+}
+
+.unit3{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding:20px;
+}
+
+
+
+.unit3b img{
+    width: 80%;
+    text-align: center;
+    margin: 20px;
+    border-radius: 30px;
+    border: 3px solid rgb(234, 13, 13);
+}
+
+.unit3a h1{
+    padding:15px;
+}
+
+.badge{
+    margin:15px;
+    padding:9px;
+    background-color: black;
+    color:white;
+    border-radius: 15px;
+}
+
+.unit4{
+    background-color: black;
+    color: white;
+    padding:40px;
+    text-align: center;
+}
+
+.unit4a h1{
+    font-size: 29px;
+    padding: 15px;
+}
+
+.row{
+    display: flex;
+    margin-top: 30px;
+    /* gap: 10px; */
+    /* padding:30px; */
+}
+
+.products img{
+    width:100%
+    
+}
+
+.logo img{
+    width: 20%;
+    padding:8px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.moving{
+    margin:10px;
+    background-color: red;
+    color:white;
+    font-size: 24px;
+    padding:5px;
+
+    border-radius: 10px;;
+    border: 3px solid white;
+    font-weight: bold;
+}
+
+.simscard img{
+    width: 30%;
+}
+
+.img, .img, .img, .img, .img, .img {
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(215, 23, 23);
+    width: 80%;
+    font-size: 24%;
+    color: white;
+    border-radius: 10%;
+    border: 3px;
+    font-weight: bold;
+}
+
+.moving{
+    margin: 10px;
+    background-color: red;
+    color: white;
+    font-size: 24px;
+    padding: 15px;
+}
+
+
+
+
+
+
